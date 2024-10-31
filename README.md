@@ -27,7 +27,7 @@ Dengan sedikit kode, Anda bisa menghemat waktu dan usaha!
 
 ---
 
-## 📜 Proyek Utama dalam Repositori Ini 🕷
+## 📜 Proyek Utama dalam Repositori Ini 🕷🕸️
 
 ### 🦇 Batch File 🦇
 1. **Speed Installv3 ULTIMATE**  
