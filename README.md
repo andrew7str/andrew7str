@@ -22,7 +22,7 @@ Batch file adalah alat yang kuat dan sederhana yang memungkinkan Anda:
 - ✅ Menjalankan perintah sistem tanpa membuka satu-satu
 - ✅ Otomatisasi tugas rutin, seperti backup dan cleanup
 - ✅ Mempermudah pengaturan dan konfigurasi di berbagai komputer
-
+- ✅ Tidak membutuhkan module yang harus di download
 Dengan sedikit kode, Anda bisa menghemat waktu dan usaha!
 
 ---
@@ -38,40 +38,5 @@ Dengan sedikit kode, Anda bisa menghemat waktu dan usaha!
 
 3. **Byner Calculator**  
    `byner.bat` - Script yang membantu menyelesaikan masalah konversi bilangan pada biner.
-
-### Python
-1. **Web Scraper**  
-   `scraper.py` - Skrip ini melakukan scraping pada data web dan menyimpannya dalam format CSV untuk dianalisis lebih lanjut.
-
-2. **Pengelola File Otomatis**  
-   `file_manager.py` - Mengatur file secara otomatis berdasarkan jenisnya ke dalam folder yang berbeda.
-
-### C++
-1. **Kalkulator Sederhana**  
-   `calculator.cpp` - Program C++ untuk melakukan operasi matematika dasar, ideal untuk melatih logika pemrograman dasar.
-
-2. **Sistem Manajemen Data Karyawan**  
-   `employee_management.cpp` - Program yang menyimpan, mengedit, dan menghapus data karyawan untuk aplikasi berbasis terminal.
-
-### JavaScript
-1. **Form Validation**  
-   `form_validation.js` - Skrip validasi untuk memastikan data yang dimasukkan pengguna benar, cocok untuk proyek web.
-
-2. **To-Do List**  
-   `todo.js` - Aplikasi to-do sederhana berbasis JavaScript untuk mengatur daftar tugas harian.
-
-### HTML & PHP
-1. **Website Portfolio**  
-   `index.html` & `style.css` - Kumpulan template untuk membuat website portfolio yang modern.
-
-2. **Sistem Login Sederhana**  
-   `login.php` - Sistem login menggunakan PHP dengan validasi sederhana.
-
-### Bug Hunting Tools
-1. **XSS Scanner**  
-   `xss_scanner.py` - Skrip Python yang mendeteksi celah XSS dalam sebuah aplikasi web.
-
-2. **SQL Injection Tester**  
-   `sql_injector.py` - Alat bantu untuk mengidentifikasi potensi kerentanan SQL Injection pada aplikasi.
 
 ---
