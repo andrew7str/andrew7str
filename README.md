@@ -15,7 +15,8 @@
 ## 👾 Tentang Repositori Ini ☣︎
 Repositori ini berisi berbagai skrip dan proyek dalam **Batch, Python, C++, JavaScript, HTML, dan PHP** untuk **otomatisasi, pengembangan web, dan pengamanan**. Dengan tambahan kategori **Bug Hunting**, Anda bisa menemukan alat bantu untuk mengidentifikasi dan mengamankan sistem dari potensi kerentanan.
 
-Repositori ini sangat cocok bagi pengembang, teknisi, dan bug hunter yang ingin meningkatkan produktivitas melalui automasi dan pengembangan.
+☣️WEBSITE OFFICIAL☣️
+[![Website](https://img.shields.io/badge/Website-Speed_Install-blue?style=for-the-badge&logo=google-chrome)](https://andrew-exe.blogspot.com/)
 
 ---
 
@@ -32,6 +33,7 @@ Dengan sedikit kode, Anda bisa menghemat waktu dan usaha!
 ## 📜 Proyek Utama dalam Repositori Ini 🕷🕸️
    ദ്ദി ༎ຶ‿༎ຶ ) ( ͠° ͟ʖ ͡°) (◡̀_◡́) (๑ > ᴗ < ๑) (˶ᵔ ᵕ ᵔ˶) ദ്ദി(ᵔᗜᵔ) (੭˃ᴗ˂)੭ (｡•́︿•̀｡)
 ### 🦇 Batch File 🦇
+![Speed Install](./assets/speed_install.png)
 ╰┈➤ **⚡︎ Speed Installv3 ULTIMATE**  
    `Speed Installv3Ultimate.exe` - Script yang sudah saya kembangkan dari sejak 2020 untuk versi pertamanya dan sudah berjalan sampai sekarang untuk versi ke tiganya, cocok banget bagi kaum teknisi Laptop atau Komputer yang kerjanya memperbaiki pada bagian software di OS Windows yang support dari Windows 7 sampai 11.
 
