@@ -34,7 +34,9 @@ Dengan sedikit kode, Anda bisa menghemat waktu dan usaha!
 ## 📜 Proyek Utama dalam Repositori Ini 🕷🕸️
    ദ്ദി ༎ຶ‿༎ຶ ) ( ͠° ͟ʖ ͡°) (◡̀_◡́) (๑ > ᴗ < ๑) (˶ᵔ ᵕ ᵔ˶) ദ്ദി(ᵔᗜᵔ) (੭˃ᴗ˂)੭ (｡•́︿•̀｡)
 ### 🦇 Batch File 🦇
+
 ![Speed Install](./bin/speed_install.png)
+
 ╰┈➤ **⚡︎ Speed Installv3 ULTIMATE**  
    `Speed Installv3Ultimate.exe` - Script yang sudah saya kembangkan dari sejak 2020 untuk versi pertamanya dan sudah berjalan sampai sekarang untuk versi ke tiganya, cocok banget bagi kaum teknisi Laptop atau Komputer yang kerjanya memperbaiki pada bagian software di OS Windows yang support dari Windows 7 sampai 11.
 
