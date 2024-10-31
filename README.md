@@ -1,4 +1,6 @@
-# 👋 Selamat Datang di Repositori Otomatisasi dan Pemrograman Saya!
+# ─────────────────────୨ৎ──────────────────────
+# ꧁𓊈𒆜 ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ 𒆜𓊉꧂
+# ─────────────────────୨ৎ──────────────────────
 
 ![GitHub](https://img.shields.io/badge/GitHub-Batch_File_Scripting-blue?style=for-the-badge&logo=github)
 ![Automation](https://img.shields.io/badge/Automation-Scripting-green?style=for-the-badge&logo=powerautomate)
@@ -10,7 +12,7 @@
 ![PHP](https://img.shields.io/badge/PHP-Web_Scripting-blueviolet?style=for-the-badge&logo=php)
 ![Bug Hunter](https://img.shields.io/badge/Bug_Hunter-Security-red?style=for-the-badge&logo=hackthebox)
 
-## 📂 Tentang Repositori Ini ☣︎
+## 👾 Tentang Repositori Ini ☣︎
 Repositori ini berisi berbagai skrip dan proyek dalam **Batch, Python, C++, JavaScript, HTML, dan PHP** untuk **otomatisasi, pengembangan web, dan pengamanan**. Dengan tambahan kategori **Bug Hunting**, Anda bisa menemukan alat bantu untuk mengidentifikasi dan mengamankan sistem dari potensi kerentanan.
 
 Repositori ini sangat cocok bagi pengembang, teknisi, dan bug hunter yang ingin meningkatkan produktivitas melalui automasi dan pengembangan.
@@ -28,15 +30,15 @@ Dengan sedikit kode, Anda bisa menghemat waktu dan usaha!
 ---
 
 ## 📜 Proyek Utama dalam Repositori Ini 🕷🕸️
-
+▬▬ι═══════ﺤ
 ### 🦇 Batch File 🦇
-1. **Speed Installv3 ULTIMATE**  
+╰┈➤ **Speed Installv3 ULTIMATE**  
    `Speed Installv3Ultimate.exe` - Script yang sudah saya kembangkan dari sejak 2020 untuk versi pertamanya dan sudah berjalan sampai sekarang untuk versi ke tiganya, cocok banget bagi kaum teknisi Laptop atau Komputer yang kerjanya memperbaiki pada bagian software di OS Windows yang support dari Windows 7 sampai 11.
 
-2. **Lock Folder**  
+╰┈➤ **Lock Folder**  
    `Lock.bat` - Mengunci serta bisa juga menyembunyikan folder dengan password yang diinginkan, cocok banget buat kamu yang ingin menjaga privasi.
 
-3. **Byner Calculator**  
+╰┈➤ **Byner Calculator**  
    `byner.bat` - Script yang membantu menyelesaikan masalah konversi bilangan pada biner.
 
 ---
