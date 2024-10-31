@@ -10,14 +10,14 @@
 ![PHP](https://img.shields.io/badge/PHP-Web_Scripting-blueviolet?style=for-the-badge&logo=php)
 ![Bug Hunter](https://img.shields.io/badge/Bug_Hunter-Security-red?style=for-the-badge&logo=hackthebox)
 
-## 📂 Tentang Repositori Ini
+## 📂 Tentang Repositori Ini ☣︎
 Repositori ini berisi berbagai skrip dan proyek dalam **Batch, Python, C++, JavaScript, HTML, dan PHP** untuk **otomatisasi, pengembangan web, dan pengamanan**. Dengan tambahan kategori **Bug Hunting**, Anda bisa menemukan alat bantu untuk mengidentifikasi dan mengamankan sistem dari potensi kerentanan.
 
 Repositori ini sangat cocok bagi pengembang, teknisi, dan bug hunter yang ingin meningkatkan produktivitas melalui automasi dan pengembangan.
 
 ---
 
-## 🚀 Kelebihan Menggunakan Batch File
+## 🚀 Kelebihan Menggunakan Batch File ⎛⎝( ` ᢍ ´ )⎠⎞ᵐᵘʰᵃʰᵃ
 Batch file adalah alat yang kuat dan sederhana yang memungkinkan Anda:
 - ✅ Menjalankan perintah sistem tanpa membuka satu-satu
 - ✅ Otomatisasi tugas rutin, seperti backup dan cleanup
@@ -27,9 +27,9 @@ Dengan sedikit kode, Anda bisa menghemat waktu dan usaha!
 
 ---
 
-## 📜 Proyek Utama dalam Repositori Ini
+## 📜 Proyek Utama dalam Repositori Ini 🕷
 
-### Batch File
+### 🦇 Batch File 🦇
 1. **Speed Installv3 ULTIMATE**  
    `Speed Installv3Ultimate.exe` - Script yang sudah saya kembangkan dari sejak 2020 untuk versi pertamanya dan sudah berjalan sampai sekarang untuk versi ke tiganya, cocok banget bagi kaum teknisi Laptop atau Komputer yang kerjanya memperbaiki pada bagian software di OS Windows yang support dari Windows 7 sampai 11.
 
