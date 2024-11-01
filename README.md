@@ -11,6 +11,8 @@
 ![HTML](https://img.shields.io/badge/HTML-Web_Markup-orange?style=for-the-badge&logo=html5)
 ![PHP](https://img.shields.io/badge/PHP-Web_Scripting-blueviolet?style=for-the-badge&logo=php)
 ![Bug Hunter](https://img.shields.io/badge/Bug_Hunter-Security-red?style=for-the-badge&logo=hackthebox)
+![Flutter Developer](https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter)
+![Android Developer](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android)
 
 ## 👾 Tentang Repositori Ini ☣︎
 Repositori ini berisi berbagai skrip dan proyek dalam **Batch, Python, C++, JavaScript, HTML, dan PHP** untuk **otomatisasi, pengembangan web, dan pengamanan**. Dengan tambahan kategori **Bug Hunting**, Anda bisa menemukan alat bantu untuk mengidentifikasi dan mengamankan sistem dari potensi kerentanan.
