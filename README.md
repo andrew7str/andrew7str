@@ -58,3 +58,41 @@ Dengan sedikit kode, Anda bisa menghemat waktu dan usaha!
    `byner.bat` - Script yang membantu menyelesaikan masalah konversi bilangan pada biner.
 
 ---
+
+
+## 👾 About This Repository ☣︎  
+This repository contains various scripts and projects in **Batch, Python, C++, JavaScript, HTML, and PHP** for **automation, web development, and security**. Additionally, there is a **Bug Hunting** category where you can find tools to identify and secure systems from potential vulnerabilities.
+
+### ☣️𝕎𝔼𝔹𝕊𝕀𝕋𝔼 𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃☣️
+
+[![Website](https://img.shields.io/badge/Website-Mr.exe-blue?style=for-the-badge&logo=google-chrome)](https://andrew-exe.blogspot.com/)
+
+---
+
+## 🚀 Advantages of Using Batch Files ⎛⎝( ` ᢍ ´ )⎠⎞ᵐᵘʰᵃʰᵃ  
+Batch files are powerful and simple tools that allow you to:
+- ✅ Run system commands without opening them individually
+- ✅ Automate routine tasks like backups and cleanup
+- ✅ Simplify setups and configurations across multiple computers
+- ✅ No need to download external modules
+With just a little code, you can save time and effort!
+
+---
+
+## 📜 Main Projects in This Repository 🕷🕸️  
+   ( ͠° ͟ʖ ͡°) (◡̀_◡́) (๑ > ᴗ < ๑) (˶ᵔ ᵕ ᵔ˶) (ᵔᗜᵔ) (੭˃ᴗ˂)੭ (｡•́︿•̀｡)
+
+### 🦇 Batch Files 🦇  
+
+![Speed Install](./bin/speedinstall.png)
+
+╰┈➤ **⚡︎ Speed Installv3 ULTIMATE**  
+`Speed Installv3Ultimate.exe` - A script I developed back in 2020, now in its third version. It is perfect for IT technicians who work with software repairs on Windows OS, supporting versions from Windows 7 to Windows 11.
+
+╰┈➤ **⚡︎ Lock Folder**  
+`Lock.bat` - This script allows you to lock and hide a folder with a password of your choice. It's ideal for anyone looking to protect their privacy.
+
+╰┈➤ **⚡︎ Byner Calculator**  
+`byner.bat` - A script that helps with binary number conversion.
+
+---  
