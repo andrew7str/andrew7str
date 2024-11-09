@@ -96,3 +96,12 @@ With just a little code, you can save time and effort!
 `byner.bat` - A script that helps with binary number conversion.
 
 ---  
+## Traktir Kopi
+
+Jika Anda merasa terbantu dan ingin memberikan dukungan, Anda bisa traktir kopi melalui link Saweria berikut:
+
+[Traktir Kopi Saya](https://saweria.co/andrewsianturi)
+
+[Traktir Kopi Saya](https://saweria.co/speedinstall)
+
+Terima kasih atas dukungan Anda! ☕
