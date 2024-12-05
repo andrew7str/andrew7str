@@ -60,7 +60,7 @@ Dengan sedikit kode, Anda bisa menghemat waktu dan usaha!
 ---
 
 
-## 👾 About This Repository ☣︎  
+## 👾 About This My Mine ☣︎  
 This repository contains various scripts and projects in **Batch, Python, C++, JavaScript, HTML, and PHP** for **automation, web development, and security**. Additionally, there is a **Bug Hunting** category where you can find tools to identify and secure systems from potential vulnerabilities.
 
 ### ☣️𝕎𝔼𝔹𝕊𝕀𝕋𝔼 𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃☣️
