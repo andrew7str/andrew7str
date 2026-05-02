@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Repository Viewer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Daftar Repository GitHub</h1>
+
+        <div class="search-box">
+            <input type="text" id="username" placeholder="Masukkan Username GitHub">
+            <button onclick="loadRepos()">Load Repository</button>
+            <button onclick="toggleList()" id="toggleBtn">Hide List</button>
+        </div>
+
+        <div id="repoContainer">
+            <ul id="repoList"></ul>
+        </div>
+
+        <div id="readmeContainer">
+            <h2>README.md</h2>
+            <div id="readmeContent">Pilih repository...</div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
